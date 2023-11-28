@@ -43,3 +43,4 @@ eagles | lying eyes | ..
 soft cell | tainted love | ..
 new order | blue mondays | ..
 toto | hold the line | ..
+cindy lauper | time after time | ..
