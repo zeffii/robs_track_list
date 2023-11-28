@@ -42,3 +42,4 @@ Justin Hayward | Forever Autumn | ..
 eagles | lying eyes | ..
 soft cell | tainted love | ..
 new order | blue mondays | ..
+toto | hold the line | ..
