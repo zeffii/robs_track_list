@@ -44,4 +44,5 @@ soft cell | tainted love | ..
 new order | blue mondays | ..
 toto | hold the line | ..
 cindy lauper | time after time | ..
-prince | purple rain | C
+prince | purple rain | C practice
+
