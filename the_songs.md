@@ -39,3 +39,4 @@ franky goes to hollywood | the power of love | ..
 rogers waters | the gunner's dream | ..
 ? The Moody Blues | Nights In White Satin | ..
 Justin Hayward | Forever Autumn | ..
+eagles | lying eyes | ..
