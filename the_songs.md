@@ -44,5 +44,6 @@ soft cell | tainted love | ..
 new order | blue mondays | ..
 toto | hold the line | ..
 cindy lauper | time after time | ..
+cindy lauper | true colours | ..
 prince | purple rain | C practice
 pearl jam | jeremy | practice
