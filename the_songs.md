@@ -47,3 +47,4 @@ cindy lauper | time after time | ..
 cindy lauper | true colours | ..
 prince | purple rain | C practice
 pearl jam | jeremy | practice
+culture club | do you really want to hurt me? | ..
