@@ -51,6 +51,5 @@ culture club | do you really want to hurt me? | ..
 susan vega | Luca | ..
 david bowie | heroes | ..
 beegees | how deep is your love? | practice
-beegees | how deep is your love? | ..
 Hall & Oates | maneater | ..
 The Cars | Drive | ..
