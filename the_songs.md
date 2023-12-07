@@ -56,4 +56,5 @@ The Cars | Drive | ..
 Toto | Rosanna | ..
 Bruce Hornsby | The Way It Is | ..
 prince | when doves fly | ..
-christopher cross | Arthur's Mum | ..
+christopher cross | Arthur's Theme | ..
+Elvis Presley | Suspicious Minds | ..
