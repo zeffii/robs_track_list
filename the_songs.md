@@ -40,7 +40,7 @@ rogers waters | the gunner's dream | .. | ..
 ? The Moody Blues | Nights In White Satin | .. | ..
 Justin Hayward | Forever Autumn | .. | ..
 eagles | lying eyes | .. | ..
-soft cell | tainted love | .. | ..
+soft cell | tainted love | .. | 🎹
 new order | blue mondays | .. | ..
 toto | hold the line | .. | ..
 cindy lauper | time after time | .. | ..
