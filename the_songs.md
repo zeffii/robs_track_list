@@ -59,3 +59,4 @@ prince | when doves fly | .. | ..
 christopher cross | Arthur's Theme | .. | ..
 Elvis Presley | Suspicious Minds | .. | ..
 Supertramp | The logical song |.. | ..
+eurythmix | miracle of love | .. | 🎹
