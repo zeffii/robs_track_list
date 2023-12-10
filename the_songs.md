@@ -58,3 +58,4 @@ Bruce Hornsby | The Way It Is | ..
 prince | when doves fly | ..
 christopher cross | Arthur's Theme | ..
 Elvis Presley | Suspicious Minds | ..
+Supertramp | The logical song |..
