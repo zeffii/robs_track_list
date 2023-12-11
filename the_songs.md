@@ -1,7 +1,6 @@
 | artist | song | key | instrument |
 ---------|------|-----|-------------
 sting | spirits in the material world | ... | ..
-sting | walking on the moon | .. | 🎹
 carlie simon | you're so vain | ... | ..
 Al stewart | year of the cat | C  | ..
 elvis | in the ghetto | .. | ..
@@ -12,6 +11,7 @@ Chris Stapleton | Tennessee Whiskey | .. | ..
 Roger Waters | Watching TV | .. | ..
 David Bowie | Space Oddity | .. | ..
 Police | Message In A Bottle | .. | ..
+Police | walking on the moon | .. | 🎹
 David Burns | this curious feeling | .. | ..
 Bob Marley & The Wailers | Waiting in Vain | .. | ..
 Paul Weller | Shout to the top | .. | ..
