@@ -1,6 +1,7 @@
 | artist | song | key | instrument |
 ---------|------|-----|-------------
 sting | spirits in the material world | ... | ..
+sting | walking on the moon | .. | 🎹
 carlie simon | you're so vain | ... | ..
 Al stewart | year of the cat | C  | ..
 elvis | in the ghetto | .. | ..
