@@ -64,3 +64,4 @@ Supertramp | Breakfast in America | .. | ..
 eurythmix | miracle of love | .. | 🎹
 george harrison | while my guitar gently wheeps | .. | 🎹
 michael jackson | billy jean | .. | 🎹
+thin lizzie | don't believe a word | practice | 🎹
