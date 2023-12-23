@@ -66,7 +66,7 @@ george harrison | while my guitar gently wheeps | .. | 🎹
 michael jackson | billy jean | .. | 🎹
 thin lizzie | don't believe a word | practice | 🎹
 Alanis Morrisette | Jagged little pill | Db | 🎹 
-  |  | .. | ..
+Neil Diamond  | Love on the rocks |key G .. | ..
   |  | .. | ..
   |  | .. | ..
   |  | .. | ..
