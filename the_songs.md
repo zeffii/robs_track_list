@@ -69,8 +69,8 @@ Alanis Morrisette | Jagged little pill | Db | 🎹
 Neil Diamond  | Love on the rocks |key G .. | ..
 The Housemartins| Build | .. | 🎹 
 Fool's Garden | Lemon Tree | A | 🎹
- Rhianna | 4 5 seconds |key G.. | 🎹.
-  |  | .. | ..
+Rhianna | 4 5 seconds |key G.. | 🎹
+prefab sprout | cars and girls | Bb, song=key major 7th  | 🎹
   |  | .. | ..
   |  | .. | ..
   |  | .. | ..
