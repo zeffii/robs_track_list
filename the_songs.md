@@ -75,7 +75,7 @@ prefab sprout | cars and girls | Fmaj7th  | 🎹  |
  Rod Stewart |the killing of Georgie boy  | C.. | 🎹 
  Johnny Nash | I can see clearly now| .D. | 🎹 
  Pink Floyd | Dogs of War |Cm .. | E1 🎹 ..
-  INXS| Never tear us apart | Am.. | Strings?.
-  | 🎹 | .. | ..
+  INXS| Never tear us apart | Am.. | Strings? 🎹.
+  | | .. | ..
   |  | .. | ..
   
